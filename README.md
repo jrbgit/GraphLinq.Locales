@@ -8,9 +8,9 @@ Translations for the GraphLinq Analytics Platform!
 
 - To help you get started - you can copy and paste the `translation.json` and `welcome.json` from the `en` folder into your new directory.
 
-- `welcome.json` contains a list of all the phrases that need to be translated into the local language. Your `welcome.json` should look exactly like mine but on the right side of each item should be the translated term.
+- `welcome.json` contains a list of all the phrases that need to be translated into the local language. Your file should look exactly like mine but on the right side of each item should be the translated term.
 
-- `translation.json` contains a list of all the languages supported and how they would apear in that folders language.
+- `translation.json` contains a list of all the languages supported and how they would apear in that folders language. We will all need to keep adding to our lists as new langauges are added.
 
 - IF YOU HAVE QUESTIONS - JUST ASK!
 
