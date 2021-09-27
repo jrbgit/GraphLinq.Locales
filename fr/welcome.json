@@ -1,6 +1,84 @@
 {
-    "title": "HelloFR React",
-    "content": {
-      "text": "Welcome FRat our place."
+    "title": "GraphLinq Analytics",
+    "header": {
+      "search": "Recherche token...",
+      "connect": "Connexion portefeuille"
+    },
+    "sidebar": {
+      "overview": "Aperçu",
+      "graph_ide": "Graph IDE",
+      "dashboard": "Dashboard",
+      "documentation": "Documentation"
+    },
+    "menu": {
+      "overview": "Aperçu",
+      "charts": "Graphiques",
+      "trades": "Transactions",
+      "staking": "Staking",
+      "ta": "TA",
+      "social": "Social",
+      "settings": "Configuration"
+    },
+    "overview": {
+      "price": "Prix",
+      "volume": "Volume",
+      "holders": "Détenteurs",
+      "ath": "Plus haut prix atteint",
+      "mcap": "Capitalisation Boursière",
+      "mcap_fd": "Capitalisation boursière Fully Diluted",
+      "burned": "Brulé",
+      "supply_circ": "Offre en Circulation",
+      "supply_total": "Offre Totale",
+      "supply_max": "Offre Max",
+      "last_trades": "Dernières () Transactions"
+    },
+    "charts": {
+      "null": "null"
+    },
+    "trades": {
+      "trades": "Transactions GLQ",
+      "date": "Date",
+      "side": "Position",
+      "buy": "Achat",
+      "sell": "Vente",
+      "price_usd": "Prix USD",
+      "price_eth": "Prix ETH",
+      "total_glq": "Montant GLQ",
+      "total_eth": "Total ETH",
+      "maker": "Initiateur",
+      "exchange": "EX",
+      "other": "Autre",
+      "show": "Voir",
+      "page": "Page"
+    },
+    "staking": {
+      "total_glq": "Total GLQ Staké ",
+      "total_usd": "Total USD Staké ",
+      "total_tier": "Total Staké par Tier",
+      "total": "Total Stakers",
+      "top": "Stakers par durée de détention",
+      "top3": "Top 3",
+      "your_info": "Info Staking",
+      "your_tier": "Tier",
+      "your_rank": "Rang",
+      "your_claimable": "Recupérable",
+      "rewards_available": "Récompense de staking disponible",
+      "rewards_distributed": "Récompense de staking distribuée"
+    },
+    "ta": {
+      "null": "null"
+    },
+    "social": {
+      "followers": "Nombre de followers",
+      "members": "Total membres"
+    },
+    "liquidity": {
+      "total_locked": "Liquidité totale verrouillée",
+      "total_pairs": "Total verrouillé par pair de token",
+      "total_value": "Valeur totale verrouillée"
+    },
+    "settings": {
+      "menu": "Voir / Cacher colonne",
+      "toggle": "Tout basculer"
     }
 }
