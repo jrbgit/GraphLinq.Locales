@@ -55,6 +55,7 @@ Language         | Submitted By | Reviewed By
 German (de)      | ildan        | None Yet!
 English (en)     | jr00t        | None Yet!
 Netherlands (nl) | Martijn      | None Yet!
+French (fr)      | Mixany       | None Yet!
 
 <a href="https://github.com/jrbgit/GraphLinq.Locales/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=jrbgit/GraphLinq.Locales" />
