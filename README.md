@@ -1,1 +1,47 @@
 # GraphLinq.Locales
+
+Translations for the GraphLinq Analytics Platform!
+
+## How It Works
+
+- Create a folder in the main directory with the abbreviation: [List of abbreviations](https://github.com/ladjs/i18n-locales)
+
+- To help you get started - you can copy and paste the `translation.json` and `welcome.json` from the `en` folder into your new directory.
+
+- `welcome.json` contains a list of all the phrases that need to be translated into the local language. Your `welcome.json` should look exactly like mine but on the right side of each item should be the translated term.
+
+- `translation.json` contains a list of all the languages supported and how they would apear in that folders language.
+
+- IF YOU HAVE QUESTIONS - JUST ASK!
+
+If you were adding `zz`, it should look like this.
+
+```(none)
+.
+├── en
+│   ├── welcome.json
+│   └── translation.json
+├── de
+│   └── welcome.json
+|   └── translation.json
+├── fr
+│   ├── welcome.json
+│   └── translation.json
+├── zz
+│   ├── welcome.json
+│   └── translation.json
+```
+
+## Formating Guildlines
+
+The documents are in [JSON](https://en.wikipedia.org/wiki/JSON).
+
+Please leave an empty line at the end of the document.
+
+## Changes
+
+Please do not add any new fields to the document unless we discuss.
+
+## Special Thanks
+
+After you submit a translation - credit will be given here!
