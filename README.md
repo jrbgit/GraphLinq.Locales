@@ -38,6 +38,8 @@ The documents are in [JSON](https://en.wikipedia.org/wiki/JSON).
 
 Please leave an empty line at the end of the document.
 
+The last line of a set of parameters does not have a `,` comma at the end of it!
+
 ## Changes
 
 Please do not add any new fields to the document unless we discuss.
