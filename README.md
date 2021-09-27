@@ -16,7 +16,7 @@ Translations for the GraphLinq Analytics Platform!
 
 If you were adding `zz`, it should look like this.
 
-```(none)
+```text
 .
 ├── en
 │   ├── welcome.json
@@ -47,3 +47,16 @@ Please do not add any new fields to the document unless we discuss.
 ## Special Thanks
 
 After you submit a translation - credit will be given here!
+
+## Credits
+
+Language     | Submitted By | Reviewed By
+-------------|--------------|------------
+German (de)  | ildan        | None Yet!
+English (en) | jr00t        | None Yet!
+
+<a href="https://github.com/jrbgit/GraphLinq.Locales/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jrbgit/GraphLinq.Locales" />
+</a>
+
+Made with [contributors-img](https://contrib.rocks).
