@@ -1,85 +1,85 @@
 {
     "title": "GraphLinq Analytics",
     "header": {
-      "search": "Token Zoeken...",
-      "connect": "Verbind Je Portemonnee"
+        "search": "Token Zoeken...",
+        "connect": "Verbind Je Portemonnee"
     },
     "sidebar": {
-      "overview": "Overzicht",
-      "graph_ide": "Graph IDE",
-      "dashboard": "Dashbord",
-      "documentation": "Documentatie"
+        "overview": "Overzicht",
+        "graph_ide": "Graph IDE",
+        "dashboard": "Dashbord",
+        "documentation": "Documentatie"
     },
     "menu": {
-      "overview": "Overzicht",
-      "charts": "Grafieken",
-      "trades": "Verhandeld",
-      "staking": "Staking",
-      "ta": "TA",
-      "social": "Sociaal",
-      "settings": "Instellingen"
+        "overview": "Overzicht",
+        "charts": "Grafieken",
+        "trades": "Verhandeld",
+        "staking": "Staking",
+        "ta": "TA",
+        "social": "Sociaal",
+        "settings": "Instellingen"
     },
     "overview": {
-      "price": "Prijs",
-      "volume": "Volume",
-      "holders": "Houders",
-      "ath": "Hoogste Koers Ooit",
-      "mcap": "Marktkapitalisatie",
-      "mcap_fd": "Volledig Vervallen Marktkapitalisatie",
-      "burned": "Gebrand",
-      "supply_circ": "Circulerend Aanbod",
-      "supply_total": "Totaal Aanbod",
-      "supply_max": "Maximaal Aanbod",
-      "last_trades": "Laatst () Verhandeld"
+        "price": "Prijs",
+        "volume": "Volume",
+        "holders": "Houders",
+        "ath": "Hoogste Koers Ooit",
+        "mcap": "Marktkapitalisatie",
+        "mcap_fd": "Volledig Vervallen Marktkapitalisatie",
+        "burned": "Gebrand",
+        "supply_circ": "Circulerend Aanbod",
+        "supply_total": "Totaal Aanbod",
+        "supply_max": "Maximaal Aanbod",
+        "last_trades": "Laatst () Verhandeld"
     },
     "charts": {
-      "null": "nul"
+        "null": "nul"
     },
     "trades": {
-      "trades": "GLQ Trades",
-      "date": "Datum",
-      "side": "Handelszijde",
-      "buy": "Koop",
-      "sell": "Verkoop",
-      "price_usd": "Prijs USD",
-      "price_eth": "Prijs ETH",
-      "total_glq": "Hoeveelheid GLQ",
-      "total_eth": "Totaal ETH",
-      "maker": "Maker",
-      "exchange": "EX",
-      "other": "Andere",
-      "show": "Laat zien",
-      "page": "Pagina"
+        "trades": "GLQ Trades",
+        "date": "Datum",
+        "side": "Handelszijde",
+        "buy": "Koop",
+        "sell": "Verkoop",
+        "price_usd": "Prijs USD",
+        "price_eth": "Prijs ETH",
+        "total_glq": "Hoeveelheid GLQ",
+        "total_eth": "Totaal ETH",
+        "maker": "Maker",
+        "exchange": "EX",
+        "other": "Andere",
+        "show": "Laat zien",
+        "page": "Pagina"
     },
     "staking": {
-      "total_glq": "Totaal GLQ Gestaked",
-      "total_usd": "Totaal USD Gestaked",
-      "total_tier": "Totaal Gestaked Bij Tier",
-      "total": "Totaal aantal Stakers",
-      "top": "Stakers op basis van houdlengte",
-      "top3": "Top 3",
-      "your_info": "Jouw Staking Informatie",
-      "your_tier": "Laag",
-      "your_rank": "Rank",
-      "your_claimable": "Opeisbaar",
-      "rewards_available": "Staking Beloning Beschikbaar",
-      "rewards_distributed": "Staking Beloning Verdeeld"
+        "total_glq": "Totaal GLQ Gestaked",
+        "total_usd": "Totaal USD Gestaked",
+        "total_tier": "Totaal Gestaked Bij Tier",
+        "total": "Totaal aantal Stakers",
+        "top": "Stakers op basis van houdlengte",
+        "top3": "Top 3",
+        "your_info": "Jouw Staking Informatie",
+        "your_tier": "Laag",
+        "your_rank": "Rank",
+        "your_claimable": "Opeisbaar",
+        "rewards_available": "Staking Beloning Beschikbaar",
+        "rewards_distributed": "Staking Beloning Verdeeld"
     },
     "ta": {
-      "null": "nul"
+        "null": "nul"
     },
     "social": {
-      "followers": "Volgens telling",
-      "members": "Member telling"
+        "followers": "Volgens telling",
+        "members": "Member telling"
     },
     "liquidity": {
-      "total_locked": "Totaal Vergrendelde liquiditeit",
-      "total_pairs": "Totaal Vergrendelde Coin Paren",
-      "total_value": "Totaal Waarde Vergrendeld"
+        "total_locked": "Totaal Vergrendelde liquiditeit",
+        "total_pairs": "Totaal Vergrendelde Coin Paren",
+        "total_value": "Totaal Waarde Vergrendeld"
     },
     "settings": {
-      "menu": "Laat Zien / Verberg Kolommen",
-      "toggle": "Activeer Alles"
+        "menu": "Laat Zien / Verberg Kolommen",
+        "toggle": "Activeer Alles"
     }
 }
 

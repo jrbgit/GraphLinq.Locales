@@ -40,6 +40,8 @@ Please leave an empty line at the end of the document.
 
 The last line of a set of parameters does not have a `,` comma at the end of it!
 
+Indentation should be with 4 spaces - not tabs
+
 ## Changes
 
 Please do not add any new fields to the document unless we discuss.
@@ -57,6 +59,7 @@ English (en)                 | jr00t                       | None Yet!
 Netherlands (nl)             | Martijn                     | None Yet!
 French (fr)                  | Mixany                      | None Yet!
 Brazilian Portuguese (pt-BR) | Henrique Viana (@Rickviana) | None Yet!
+Turkish (tr)                 | Furkan                      | None Yet!
 
 <a href="https://github.com/jrbgit/GraphLinq.Locales/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=jrbgit/GraphLinq.Locales" />

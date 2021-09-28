@@ -1,85 +1,85 @@
 {
-  "title": "GraphLinq Analytik",
-  "header": {
-    "search": "Token suchen...",
-    "connect": "Wallet verbinden"
-  },
-  "sidebar": {
-    "overview": "Übersicht",
-    "graph_ide": "Graph IDE",
-    "dashboard": "Dashboard",
-    "documentation": "Dokumentation"
-  },
-  "menu": {
-    "overview": "Übersicht",
-    "charts": "Diagramme",
-    "trades": "Trades",
-    "staking": "Staking",
-    "ta": "TA",
-    "social": "Sozial",
-    "settings": "Einstellungen"
-  },
-  "overview": {
-    "price": "Preis",
-    "volume": "Volumen",
-    "holders": "Aktionäre",
-    "ath": "Allzeithoch",
-    "mcap": "Marktkapitalisierung",
-    "mcap_fd": "Vollständig verwässerte Marktkapitalisierung",
-    "burned": "Verbrannt",
-    "supply_circ": "Im Umlauf befindlichen Token",
-    "supply_total": "Gesamte Anzahl der Token",
-    "supply_max": "Maximale Anzahl der Token",
-    "last_trades": "Letzte () Trades"
-  },
-  "charts": {
-    "null": "null"
-  },
-  "trades": {
-    "trades": "GLQ Trades",
-    "date": "Datum",
-    "side": "Seite",
-    "buy": "Kaufen",
-    "sell": "Verkaufen",
-    "price_usd": "Preis in USD",
-    "price_eth": "Preis in ETH",
-    "total_glq": "Anzahl GLQ",
-    "total_eth": "Gesamt ETH",
-    "maker": "Schöpfer",
-    "exchange": "EX",
-    "other": "andere",
-    "show": "Anzeigen",
-    "page": "Seite"
-  },
-  "staking": {
-    "total_glq": "Gesamt Staked GLQ",
-    "total_usd": "Gesamt Staked USD",
-    "total_tier": "Gesamt Staked nach Stufe",
-    "total": "Gesamt Stakers",
-    "top": "Stakers nach Hold-Länge",
-    "top3": "Top 3",
-    "your_info": "Deine Staking-Info",
-    "your_tier": "Stufe",
-    "your_rank": "Rang",
-    "your_claimable": "Beanspruchbar",
-    "rewards_available": "Verfügbare Staking-Prämien",
-    "rewards_distributed": "Ausgeschüttete Staking-Prämien"
-  },
-  "ta": {
-    "null": "null"
-  },
-  "social": {
-    "followers": "Anzahl Follower",
-    "members": "Anzahl Mitglieder"
-  },
-  "liquidity": {
-    "total_locked": "Insgesamt gesperrte Liquidität",
-    "total_pairs": "Insgesamt gesperrte Coin-Paare",
-    "total_value": "Gesperrter Gesamtwert"
-  },
-  "settings": {
-    "menu": "Spalten anzeigen / ausblenden",
-    "toggle": "Alle umschalten"
-  }
+    "title": "GraphLinq Analytik",
+    "header": {
+        "search": "Token suchen...",
+        "connect": "Wallet verbinden"
+    },
+    "sidebar": {
+        "overview": "Übersicht",
+        "graph_ide": "Graph IDE",
+        "dashboard": "Dashboard",
+        "documentation": "Dokumentation"
+    },
+    "menu": {
+        "overview": "Übersicht",
+        "charts": "Diagramme",
+        "trades": "Trades",
+        "staking": "Staking",
+        "ta": "TA",
+        "social": "Sozial",
+        "settings": "Einstellungen"
+    },
+    "overview": {
+        "price": "Preis",
+        "volume": "Volumen",
+        "holders": "Aktionäre",
+        "ath": "Allzeithoch",
+        "mcap": "Marktkapitalisierung",
+        "mcap_fd": "Vollständig verwässerte Marktkapitalisierung",
+        "burned": "Verbrannt",
+        "supply_circ": "Im Umlauf befindlichen Token",
+        "supply_total": "Gesamte Anzahl der Token",
+        "supply_max": "Maximale Anzahl der Token",
+        "last_trades": "Letzte () Trades"
+    },
+    "charts": {
+        "null": "null"
+    },
+    "trades": {
+        "trades": "GLQ Trades",
+        "date": "Datum",
+        "side": "Seite",
+        "buy": "Kaufen",
+        "sell": "Verkaufen",
+        "price_usd": "Preis in USD",
+        "price_eth": "Preis in ETH",
+        "total_glq": "Anzahl GLQ",
+        "total_eth": "Gesamt ETH",
+        "maker": "Schöpfer",
+        "exchange": "EX",
+        "other": "andere",
+        "show": "Anzeigen",
+        "page": "Seite"
+    },
+    "staking": {
+        "total_glq": "Gesamt Staked GLQ",
+        "total_usd": "Gesamt Staked USD",
+        "total_tier": "Gesamt Staked nach Stufe",
+        "total": "Gesamt Stakers",
+        "top": "Stakers nach Hold-Länge",
+        "top3": "Top 3",
+        "your_info": "Deine Staking-Info",
+        "your_tier": "Stufe",
+        "your_rank": "Rang",
+        "your_claimable": "Beanspruchbar",
+        "rewards_available": "Verfügbare Staking-Prämien",
+        "rewards_distributed": "Ausgeschüttete Staking-Prämien"
+    },
+    "ta": {
+        "null": "null"
+    },
+    "social": {
+        "followers": "Anzahl Follower",
+        "members": "Anzahl Mitglieder"
+    },
+    "liquidity": {
+        "total_locked": "Insgesamt gesperrte Liquidität",
+        "total_pairs": "Insgesamt gesperrte Coin-Paare",
+        "total_value": "Gesperrter Gesamtwert"
+    },
+    "settings": {
+        "menu": "Spalten anzeigen / ausblenden",
+        "toggle": "Alle umschalten"
+    }
 }
 

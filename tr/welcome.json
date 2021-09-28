@@ -1,0 +1,85 @@
+{
+    "title": "GraphLinq Analytics",
+    "header": {
+        "search": "Token ara...",
+        "connect": "Cüzdanını bağla"
+    },
+    "sidebar": {
+        "overview": "Genel Bakış",
+        "graph_ide": "IDE Grafiği",
+        "dashboard": "Gösterge Paneli",
+        "documentation": "Belgeleme"
+    },
+    "menu": {
+        "overview": "Genel Bakış",
+        "charts": "Grafikler",
+        "trades": "Alım-satımlar",
+        "staking": "Staking",
+        "ta": "Teknik Analiz",
+        "social": "Sosyal Ağlar",
+        "settings": "Ayarlar"
+    },
+    "overview": {
+        "price": "Fiyat",
+        "volume": "Hacim",
+        "holders": "Holderlar",
+        "ath": "Tüm Zamanların En Yüksek Seviyesi",
+        "mcap": "Piyasa Değeri",
+        "mcap_fd": "Tamamen Seyreltilmiş Piyasa Değeri",
+        "burned": "Yakılan Miktar",
+        "supply_circ": "Dolaşan Arz",
+        "supply_total": "Toplam Arz",
+        "supply_max": "Maksimum Arz",
+        "last_trades": "Son () alım-satımlar"
+    },
+    "charts": {
+        "null": "null"
+    },
+    "trades": {
+        "trades": "GLQ alım-satımları",
+        "date": "Tarih",
+        "side": "Sıralama",
+        "buy": "Al",
+        "sell": "Sat",
+        "price_usd": "USD Fiyatı",
+        "price_eth": "ETH Fiyatı",
+        "total_glq": "GLQ Miktarı",
+        "total_eth": "ETH Toplamı",
+        "maker": "Yapan",
+        "exchange": "Borsa",
+        "other": "Diğer",
+        "show": "Göster",
+        "page": "Sayfa"
+    },
+    "staking": {
+        "total_glq": "Toplam Stake Edilen GLQ",
+        "total_usd": "Toplam stake Edilen USD",
+        "total_tier": "Kademeye Göre Stake Edilen Miktar",
+        "total": "Stake Edenlerin Toplam Sayısı",
+        "top": "Tutma Süresine Göre Holderlar",
+        "top3": "En Üst 3",
+        "your_info": "Stake Bilgileriniz",
+        "your_tier": "Kademe",
+        "your_rank": "Rütbe",
+        "your_claimable": "Talep Edilebilir Miktar",
+        "rewards_available": "Mevcut Stake Ödülü",
+        "rewards_distributed": "Dağıtılmış Stake Ödülü"
+    },
+    "ta": {
+        "null": "null"
+    },
+    "social": {
+        "followers": "Takipçi Sayısı",
+        "members": "Üye Sayısı"
+    },
+    "liquidity": {
+        "total_locked": "Toplam Kilitli Likidite",
+        "total_pairs": "Toplam Kilitli Koin Çifti",
+        "total_value": "Toplam Kilitli Değer"
+    },
+    "settings": {
+        "menu": "Sütunları göster / gizle ",
+        "toggle": "Hepsini seç"
+    }
+}
+

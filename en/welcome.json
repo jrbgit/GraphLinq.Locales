@@ -1,85 +1,85 @@
 {
     "title": "GraphLinq Analytics",
     "header": {
-      "search": "Search token...",
-      "connect": "Connect Your Wallet"
+        "search": "Search token...",
+        "connect": "Connect Your Wallet"
     },
     "sidebar": {
-      "overview": "Overview",
-      "graph_ide": "Graph IDE",
-      "dashboard": "Dashboard",
-      "documentation": "Documentation"
+        "overview": "Overview",
+        "graph_ide": "Graph IDE",
+        "dashboard": "Dashboard",
+        "documentation": "Documentation"
     },
     "menu": {
-      "overview": "Overview",
-      "charts": "Charts",
-      "trades": "Trades",
-      "staking": "Staking",
-      "ta": "TA",
-      "social": "Social",
-      "settings": "Settings"
+        "overview": "Overview",
+        "charts": "Charts",
+        "trades": "Trades",
+        "staking": "Staking",
+        "ta": "TA",
+        "social": "Social",
+        "settings": "Settings"
     },
     "overview": {
-      "price": "Price",
-      "volume": "Volume",
-      "holders": "Holders",
-      "ath": "All-Time High",
-      "mcap": "Market Cap",
-      "mcap_fd": "Fully Diluted Market Cap",
-      "burned": "Burned",
-      "supply_circ": "Circulating Supply",
-      "supply_total": "Total Supply",
-      "supply_max": "Maximum Supply",
-      "last_trades": "Last () Trades"
+        "price": "Price",
+        "volume": "Volume",
+        "holders": "Holders",
+        "ath": "All-Time High",
+        "mcap": "Market Cap",
+        "mcap_fd": "Fully Diluted Market Cap",
+        "burned": "Burned",
+        "supply_circ": "Circulating Supply",
+        "supply_total": "Total Supply",
+        "supply_max": "Maximum Supply",
+        "last_trades": "Last () Trades"
     },
     "charts": {
-      "null": "null"
+        "null": "null"
     },
     "trades": {
-      "trades": "GLQ Trades",
-      "date": "Date",
-      "side": "Side",
-      "buy": "Buy",
-      "sell": "Sell",
-      "price_usd": "Price USD",
-      "price_eth": "Price ETH",
-      "total_glq": "Amount GLQ",
-      "total_eth": "Total ETH",
-      "maker": "Maker",
-      "exchange": "EX",
-      "other": "other",
-      "show": "Show",
-      "page": "Page"
+        "trades": "GLQ Trades",
+        "date": "Date",
+        "side": "Side",
+        "buy": "Buy",
+        "sell": "Sell",
+        "price_usd": "Price USD",
+        "price_eth": "Price ETH",
+        "total_glq": "Amount GLQ",
+        "total_eth": "Total ETH",
+        "maker": "Maker",
+        "exchange": "EX",
+        "other": "other",
+        "show": "Show",
+        "page": "Page"
     },
     "staking": {
-      "total_glq": "Total Staked GLQ",
-      "total_usd": "Total Staked USD",
-      "total_tier": "Total Staked By Tier",
-      "total": "Total Stakers",
-      "top": "Stakers By Hold Length",
-      "top3": "Top 3",
-      "your_info": "Your Staking Info",
-      "your_tier": "Tier",
-      "your_rank": "Rank",
-      "your_claimable": "Claimable",
-      "rewards_available": "Staking Rewards Available",
-      "rewards_distributed": "Staking Rewards Distributed"
+        "total_glq": "Total Staked GLQ",
+        "total_usd": "Total Staked USD",
+        "total_tier": "Total Staked By Tier",
+        "total": "Total Stakers",
+        "top": "Stakers By Hold Length",
+        "top3": "Top 3",
+        "your_info": "Your Staking Info",
+        "your_tier": "Tier",
+        "your_rank": "Rank",
+        "your_claimable": "Claimable",
+        "rewards_available": "Staking Rewards Available",
+        "rewards_distributed": "Staking Rewards Distributed"
     },
     "ta": {
-      "null": "null"
+        "null": "null"
     },
     "social": {
-      "followers": "Follower Count",
-      "members": "Member Count"
+        "followers": "Follower Count",
+        "members": "Member Count"
     },
     "liquidity": {
-      "total_locked": "Total Locked Liquidity",
-      "total_pairs": "Total Locked Coin Pairs",
-      "total_value": "Total Value Locked"
+        "total_locked": "Total Locked Liquidity",
+        "total_pairs": "Total Locked Coin Pairs",
+        "total_value": "Total Value Locked"
     },
     "settings": {
-      "menu": "Show / Hide Columns",
-      "toggle": "Toggle All"
+        "menu": "Show / Hide Columns",
+        "toggle": "Toggle All"
     }
 }
 
