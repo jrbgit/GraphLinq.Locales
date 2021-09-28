@@ -52,8 +52,8 @@
       "page": "Página"
     },
     "staking": {
-      "total_glq": "Total De GLQ em Stake",
-      "total_usd": "Total De USD em Stake",
+      "total_glq": "Total de GLQ em Stake",
+      "total_usd": "Total de USD em Stake",
       "total_tier": "Total em Stake por Nível",
       "total": "Total de Stakers",
       "top": "Stakers por Quantidade em Hold",
