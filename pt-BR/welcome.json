@@ -1,85 +1,86 @@
 {
     "title": "GraphLinq Analytics",
     "header": {
-      "search": "Search token...",
-      "connect": "Connect Your Wallet"
+      "search": "Procurar Token...",
+      "connect": "Conecte Sua Carteira"
     },
     "sidebar": {
-      "overview": "Overview",
+      "overview": "Visão Geral",
       "graph_ide": "Graph IDE",
-      "dashboard": "Dashboard",
-      "documentation": "Documentation"
+      "dashboard": "Painel de Controle",
+      "documentation": "Documentação"
     },
     "menu": {
-      "overview": "Overview",
-      "charts": "Charts",
-      "trades": "Trades",
+      "overview": "Visão Geral",
+      "charts": "Gráficos",
+      "trades": "Transações",
       "staking": "Staking",
       "ta": "TA",
       "social": "Social",
-      "settings": "Settings"
+      "settings": "Configurações"
     },
     "overview": {
-      "price": "Price",
+      "price": "Preço",
       "volume": "Volume",
-      "holders": "Holders",
-      "ath": "All-Time High",
-      "mcap": "Market Cap",
-      "mcap_fd": "Fully Diluted Market Cap",
-      "burned": "Burned",
-      "supply_circ": "Circulating Supply",
-      "supply_total": "Total Supply",
-      "supply_max": "Maximum Supply",
-      "last_trades": "Last () Trades"
+      "holders": "Detentores",
+      "ath": "Alta Histórica",
+      "mcap": "Capitalização de Mercado",
+      "mcap_fd": "Capitalização de Mercado Totalmente Diluída",
+      "burned": "Queimado",
+      "supply_circ": "Suprimento Circulante",
+      "supply_total": "Suprimento Total",
+      "supply_max": "Suprimento Máximo",
+      "last_trades": "Últimas () Transações"
     },
     "charts": {
       "null": "null"
     },
     "trades": {
-      "trades": "GLQ Trades",
-      "date": "Date",
-      "side": "Side",
-      "buy": "Buy",
-      "sell": "Sell",
-      "price_usd": "Price USD",
-      "price_eth": "Price ETH",
-      "total_glq": "Amount GLQ",
-      "total_eth": "Total ETH",
-      "maker": "Maker",
+      "trades": "Transações GLQ",
+      "date": "Data",
+      "side": "Lado",
+      "buy": "Compra",
+      "sell": "Venda",
+      "price_usd": "Preço USD",
+      "price_eth": "Preço ETH",
+      "total_glq": "Quantidade GLQ",
+      "total_eth": "Quantidade ETH",
+      "maker": "Criador",
       "exchange": "EX",
-      "other": "other",
-      "show": "Show",
-      "page": "Page"
+      "other": "Outro",
+      "show": "Mostrar",
+      "page": "Página"
     },
     "staking": {
-      "total_glq": "Total Staked GLQ",
-      "total_usd": "Total Staked USD",
-      "total_tier": "Total Staked By Tier",
-      "total": "Total Stakers",
-      "top": "Stakers By Hold Length",
+      "total_glq": "Total De GLQ em Stake",
+      "total_usd": "Total De USD em Stake",
+      "total_tier": "Total em Stake por Nível",
+      "total": "Total de Stakers",
+      "top": "Stakers por Quantidade em Hold",
       "top3": "Top 3",
-      "your_info": "Your Staking Info",
-      "your_tier": "Tier",
-      "your_rank": "Rank",
-      "your_claimable": "Claimable",
-      "rewards_available": "Staking Rewards Available",
-      "rewards_distributed": "Staking Rewards Distributed"
+      "your_info": "Suas informações de Staking",
+      "your_tier": "Nível",
+      "your_rank": "Classificação",
+      "your_claimable": "Sua Recompensa",
+      "rewards_available": "Recompensas disponíveis",
+      "rewards_distributed": "Recompensas Distribuídas"
     },
     "ta": {
       "null": "null"
     },
     "social": {
-      "followers": "Follower Count",
-      "members": "Member Count"
+      "followers": "Número de Seguidores",
+      "members": "Número de Membros"
     },
     "liquidity": {
-      "total_locked": "Total Locked Liquidity",
-      "total_pairs": "Total Locked Coin Pairs",
-      "total_value": "Total Value Locked"
+      "total_locked": "Liquidez Total Bloqueada",
+      "total_pairs": "Total Bloqueado por Par de Tokens",
+      "total_value": "Valor Total Bloqueado"
     },
     "settings": {
-      "menu": "Show / Hide Columns",
-      "toggle": "Toggle All"
+      "menu": "Mostrar / Esconder Colunas",
+      "toggle": "Alternar Tudo"
     }
 }
+
 
