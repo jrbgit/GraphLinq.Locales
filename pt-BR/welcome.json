@@ -1,0 +1,86 @@
+{
+    "title": "GraphLinq Analytics",
+    "header": {
+      "search": "Procurar Token...",
+      "connect": "Conecte Sua Carteira"
+    },
+    "sidebar": {
+      "overview": "Visão Geral",
+      "graph_ide": "Graph IDE",
+      "dashboard": "Painel de Controle",
+      "documentation": "Documentação"
+    },
+    "menu": {
+      "overview": "Visão Geral",
+      "charts": "Gráficos",
+      "trades": "Transações",
+      "staking": "Staking",
+      "ta": "TA",
+      "social": "Social",
+      "settings": "Configurações"
+    },
+    "overview": {
+      "price": "Preço",
+      "volume": "Volume",
+      "holders": "Detentores",
+      "ath": "Alta Histórica",
+      "mcap": "Capitalização de Mercado",
+      "mcap_fd": "Capitalização de Mercado Totalmente Diluída",
+      "burned": "Queimado",
+      "supply_circ": "Suprimento Circulante",
+      "supply_total": "Suprimento Total",
+      "supply_max": "Suprimento Máximo",
+      "last_trades": "Últimas () Transações"
+    },
+    "charts": {
+      "null": "null"
+    },
+    "trades": {
+      "trades": "Transações GLQ",
+      "date": "Data",
+      "side": "Lado",
+      "buy": "Compra",
+      "sell": "Venda",
+      "price_usd": "Preço USD",
+      "price_eth": "Preço ETH",
+      "total_glq": "Quantidade GLQ",
+      "total_eth": "Quantidade ETH",
+      "maker": "Criador",
+      "exchange": "EX",
+      "other": "Outro",
+      "show": "Mostrar",
+      "page": "Página"
+    },
+    "staking": {
+      "total_glq": "Total de GLQ em Stake",
+      "total_usd": "Total de USD em Stake",
+      "total_tier": "Total em Stake por Nível",
+      "total": "Total de Stakers",
+      "top": "Stakers por Quantidade em Hold",
+      "top3": "Top 3",
+      "your_info": "Suas informações de Staking",
+      "your_tier": "Nível",
+      "your_rank": "Classificação",
+      "your_claimable": "Sua Recompensa",
+      "rewards_available": "Recompensas disponíveis",
+      "rewards_distributed": "Recompensas Distribuídas"
+    },
+    "ta": {
+      "null": "null"
+    },
+    "social": {
+      "followers": "Número de Seguidores",
+      "members": "Número de Membros"
+    },
+    "liquidity": {
+      "total_locked": "Liquidez Total Bloqueada",
+      "total_pairs": "Total Bloqueado por Par de Tokens",
+      "total_value": "Valor Total Bloqueado"
+    },
+    "settings": {
+      "menu": "Mostrar / Esconder Colunas",
+      "toggle": "Alternar Tudo"
+    }
+}
+
+
