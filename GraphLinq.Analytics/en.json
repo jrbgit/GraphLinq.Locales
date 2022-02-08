@@ -1,5 +1,15 @@
 {
     "title": "GraphLinq Analytics",
+    "language": {
+        "ar": "Arabic",
+        "de": "German",
+        "en": "English",
+        "fr": "French",
+        "nl": "Netherlands",
+        "pt": "Portuguese",
+        "pt-BR": "Brazilian Portuguese",
+        "tr": "Turkish"
+    },
     "header": {
         "search": "Search token...",
         "connect": "Connect Your Wallet"
@@ -82,4 +92,3 @@
         "toggle": "Toggle All"
     }
 }
-

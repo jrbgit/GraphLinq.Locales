@@ -1,0 +1,94 @@
+{
+    "title": "",
+    "language": {
+        "ar": "",
+        "de": "",
+        "en": "",
+        "fr": "",
+        "nl": "",
+        "pt": "",
+        "pt-BR": "",
+        "tr": ""
+    },
+    "header": {
+        "search": ".",
+        "connect": ""
+    },
+    "sidebar": {
+        "overview": "",
+        "graph_ide": "",
+        "dashboard": "",
+        "documentation": ""
+    },
+    "menu": {
+        "overview": "",
+        "charts": "",
+        "trades": "",
+        "staking": "",
+        "indicators": "",
+        "social": "",
+        "settings": ""
+    },
+    "overview": {
+        "price": "",
+        "volume": "",
+        "holders": "",
+        "ath": "",
+        "mcap": "",
+        "mcap_fd": "",
+        "burned": "",
+        "supply_circ": "",
+        "supply_total": "",
+        "supply_max": "",
+        "last_trades": ""
+    },
+    "charts": {
+        "null": ""
+    },
+    "trades": {
+        "trades": "",
+        "date": "",
+        "side": "",
+        "buy": "",
+        "sell": "",
+        "price_usd": "",
+        "price_eth": "",
+        "total_glq": "",
+        "total_eth": "",
+        "maker": "",
+        "exchange": "",
+        "other": "",
+        "show": "",
+        "page": ""
+    },
+    "staking": {
+        "total_glq": "",
+        "total_usd": "",
+        "total_tier": "",
+        "total": "",
+        "top": "",
+        "top3": "",
+        "your_info": "",
+        "your_tier": "",
+        "your_rank": "",
+        "your_claimable": "",
+        "rewards_available": "",
+        "rewards_distributed": ""
+    },
+    "ta": {
+        "null": ""
+    },
+    "social": {
+        "followers": "",
+        "members": ""
+    },
+    "liquidity": {
+        "total_locked": "",
+        "total_pairs": "",
+        "total_value": ""
+    },
+    "settings": {
+        "menu": "",
+        "toggle": ""
+    }
+}

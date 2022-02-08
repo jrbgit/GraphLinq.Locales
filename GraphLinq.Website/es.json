@@ -1,0 +1,159 @@
+{
+    "nav": {
+        "links": {
+            "home": "Inicio",
+            "litepaper": "LitePaper",
+            "team": "Sobre el equipo",
+            "docs": "Documentación",
+            "telegram": "Telegram",
+            "interface": "Ir a la interfaz",
+			"marketplace": "Accede al Marketplace",
+            "language": "Idioma"
+        }
+    },
+    "hero": {
+        "title": "El protocolo <span class='dg'>no-code</span> para el <strong>desarrollo de Blockchain</strong>",
+        "subtitle": "La automatización de la monitorización de datos DeFi y las ejecuciones externas sobre aplicaciones multicadena.",
+        "button": "Construir en nuestro IDE",
+        "graphs": {
+            "$0": {
+                "title": "Crear potentes criptoherramientas",
+                "desc": "Con GraphLinq, puede crear el equivalente a cientos de líneas de código en segundos con sólo arrastrar y soltar bloques."
+            },
+            "$1": {
+                "title": "Por una fracción de céntimo",
+                "desc": "La mayoría de las operaciones en GraphLinq cuestan fracciones de un GLQ, es incluso más barato que ejecutar su programa en AWS."
+            },
+            "$2": {
+                "title": "Ejecutar su gráfico",
+                "desc": "Ejecutar transacciones en la cadena de bloques desencadenadas por eventos o hacer llamadas a la API de intercambio de solicitudes para crear órdenes comerciales."
+            }
+        }
+    },
+    "features": {
+        "title": "Construir, visualizar y automatizar tareas",
+        "subtitle": "El <strong>GraphLinq Engine</strong> le proporciona todas las necesidades para manejar la lógica de negocio sin requerir ninguna habilidad de codificación.",
+        "$0": {
+            "title": "Construir <span class='dg'>gráficos</span> <strong>visualmente con nodos</strong>",
+            "desc": {
+                "$0": "Un nodo es un bloque que es una pieza de funcionalidad autónoma como la conexión a la red Ethereum, la obtención de datos de un intercambio específico o el envío de datos utilizando un WebHook.",
+                "$1": "El motor GraphLinq viene con un conjunto de más de 100 bloques lógicos que pueden ser ejecutados utilizando los parámetros que usted desee."
+            }
+        },
+        "$1": {
+            "title": "Enlazar <span class='dg'>nodos</span> <strong>para definir el comportamiento</strong>",
+            "desc": {
+                "$0": "Cada nodo tiene al menos una entrada que acepta valores para ser procesados, y una salida que produce resultados. La vinculación de una salida con una entrada establece una ruta de datos que permite que un nodo alimente datos a otro.",
+                "$1": "Utilice este sencillo pero poderoso principio para definir lo que puede construir."
+            }
+        },
+        "$2": {
+            "title": "Cargar y<span class='dg'>ejecutar</span> <strong>directamente desde la interfaz</strong>",
+            "desc": "Una vez que esté listo para desplegar su gráfico o utilizar una plantilla preelaborada, puede utilizar la interfaz GraphLinq para cargarlo y ejecutarlo en la red."
+        },
+        "$3": {
+            "title": "Utilice y <span class='dg'>comparta</span> <strong>sus plantillas</strong>",
+            "desc": "Crea y comparte tus gráficos con el mundo. Explora lo que otros han creado. Busque gráficos de la comunidad y reutilícelos en sus futuros proyectos de blockchain."
+        },
+        "$4": {
+            "title": "La <strong>token</strong> <span class='dg dguni'>GLQ</span>",
+            "desc": {
+                "$0": "El token GLQ le permite ejecutar un gráfico en nuestra red de prueba o en nuestra red principal para ejecutar diferentes procesos en la cadena de bloques para automatizar sus tareas. El token GLQ se quemará cada vez que el gráfico ejecute un bloque.",
+                "$1": "Puede obtener más información sobre la ficha GLQ aquí."
+            },
+            "button": "Ir a Uniswap"
+        }
+    },
+    "cta": {
+        "title": "<span class='dg'>¿Listo para crear</span> su primer gráfico en nuestro protocolo?",
+        "button-ide": "Ir al IDE",
+        "button-app": "Crear una cartera"
+    },
+    "usecases": {
+        "title": "Cómo utilizan las personas <span class='dg'>GraphLinq</span>",
+        "subtitle": "Con la posibilidad de crear su propio gráfico y utilizando una variedad de bloques prefabricados, <u>el único límite es su imaginación.</u>",
+        "testimonials": {
+            "$0": {
+                "title": "Increíble experiencia de usuario",
+                "desc": "Incluso si ya eres un desarrollador, GraphLinq te permite probar tus ideas sin tener que encender el terminal."
+            },
+            "$1": {
+                "title": "Evolución de mis servicios de pago",
+                "desc": "Estaba buscando un proyecto de criptografía que me ayudara a crear un bot automatizado para gestionar las suscripciones de mis nuevos miembros en Telegram, lo hice en unos pocos clics con la ayuda del equipo de GraphLinq."
+            },
+            "$2": {
+                "title": "Monitorización",
+                "desc": "Necesitaba una manera de monitorear un par específico en Uniswap en el que invertí, creé mis gráficos y vinculé todos los datos de los flujos de flujo a mi cuenta de Discord, y agregué un disparador condicional sobre el cambio de precios."
+            },
+            "$3": {
+                "title": "Comerciante de Binance",
+                "desc": "Soy un day trader de Binance, he utilizado una plantilla de Graph para enlazarme con la actividad de Binance y en el protocolo descentralizado AMM, de esta manera puedo desencadenar eventos de arbitraje para ejecutar una operación con mi API de Binance."
+            },
+            "$4": {
+                "title": "Informes sobre ballenas",
+                "desc": "He creado mi gráfico que me avisa en tiempo real a través de eventos webhook a mi servidor dedicado cada vez que las ballenas movieron sus fondos de una cartera a otra."
+            },
+            "$5": {
+                "title": "Tras mi inversión",
+                "desc": "Usando una plantilla, modifiqué y desplegué mi gráfico para saber cuándo se movía el precio de Ethereum en mi bot de Telegram, me ayuda a saber cuándo comprar o vender de mi inversión inicial."
+            }
+        }
+    },
+    "community": {
+        "title": "<span class='dg'>Comunidad</span> GraphLinq",
+        "subtitle": "Conozca GraphLinq, discuta con el equipo y otros miembros de la comunidad.",
+        "social": {
+            "telegram": {
+                "desc": "La red más utilizada para discutir con la comunidad y el equipo."
+            },
+            "twitter": {
+                "desc": "Siga en directo las noticias y anuncios del equipo de GraphLinq"
+            },
+            "discord": {
+                "desc": "Chatea con la comunidad en una plataforma segura y más fría."
+            },
+            "medium": {
+                "desc": "Lea la información más reciente del equipo y los detalles del desarrollo"
+            }
+        }
+    },
+    "footer": {
+        "copyright": "<strong>GraphLinq © Copyright 2021</strong>. Todos los derechos reservados.",
+        "column": {
+            "$0": {
+                "title": "GraphLinq",
+                "links": {
+                    "$0": "Documentación",
+                    "$1": "Condiciones de servicio",
+                    "$2": "Política de privacidad"
+                }
+            },
+            "$1": {
+                "title": "Productos",
+                "links": {
+                    "$0": "Interface",
+                    "$1": "IDE",
+                    "$2": "Analytics"
+                }
+            },
+            "$2": {
+                "title": "Recursos",
+                "links": {
+                    "$0": "Github",
+                    "$1": "Uniswap URL",
+                    "$2": "Medium Articulos"
+                }
+            },
+            "$3": {
+                "title": "Siga con nosotros",
+                "links": {
+                    "$0": "Twitter",
+                    "$1": "Linkedin",
+                    "$2": "Youtube",
+                    "$3": "Instagram",
+                    "$4": "Reddit"
+                }
+            }
+        }
+    }
+}

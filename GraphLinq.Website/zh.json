@@ -1,0 +1,159 @@
+{
+    "nav": {
+        "links": {
+            "home": "首页",
+            "litepaper": "LitePaper",
+            "team": "关于团队",
+            "docs": "文件资料",
+            "telegram": "Telegram",
+            "interface": "进入界面",
+			"marketplace": "访问市场",
+            "language": "语"
+        }
+    },
+    "hero": {
+        "title": "<strong>区块链开发</strong>的<span class='dg'>无</span>代码协议。",
+        "subtitle": "在多链应用上实现DeFi数据监控和外部执行的自动化。",
+        "button": "建立在我们的IDE基础上",
+        "graphs": {
+            "$0": {
+                "title": "创建强大的加密工具",
+                "desc": "與GraphLinq，您可以創建相當於數百行的代碼在幾秒鐘內通過簡單的拖放塊。"
+            },
+            "$1": {
+                "title": "一分钱一分货",
+                "desc": "在GraphLinq上的大部分操作花費一個GLQ的零碎，它甚至比在AWS上運行您的程序更便宜。"
+            },
+            "$2": {
+                "title": "执行您的图表",
+                "desc": "在区块链上运行由事件触发的交易，或使调用交易所API来请求创建交易订单。"
+            }
+        }
+    },
+    "features": {
+        "title": "建立、可视化、自动化任务",
+        "subtitle": "<strong>GraphLinq引擎</strong>为您提供处理业务逻辑的所有需求，而不需要任何编码技能。",
+        "$0": {
+            "title": "<strong>用节点直观地</strong>构建<span class='dg'>图形</span>",
+            "desc": {
+                "$0": "节点是一个块，它是一个自带的功能，比如连接到Ethereum网络，从特定的交易所获取数据或使用WebHook发送数据。",
+                "$1": "GraphLinq引擎來自一套超過100個邏輯塊，可以使用您所需的參數執行。"
+            }
+        },
+        "$1": {
+            "title": "链接<span class='dg'>节点</span> <strong>来定义行为</strong>",
+            "desc": {
+                "$0": "每个节点至少有一个接受要处理的值的输入和一个产生结果的输出。将一个输出连接到一个输入建立一个数据路径，使一个节点能够将数据输入到另一个节点。",
+                "$1": "用这个简单而有力的原则来定义你能建立什么。"
+            }
+        },
+        "$2": {
+            "title": "<strong>直接从界面</strong>上传和<span class='dg'>执行</span>",
+            "desc": "一旦您准备好部署您的Graph或使用预制模板，您可以使用GraphLinq接口将其上传并在网络上执行。"
+        },
+        "$3": {
+            "title": "使用和<span class='dg'>分享</span> <strong>您的模板</strong>",
+            "desc": "创建并与世界分享您的图表。探索其他人已经创建的图形。搜索社区Graph，并在您的进一步区块链项目中重复使用它们。"
+        },
+        "$4": {
+            "title": "<span class='dg dguni'>GLQ</span> <strong>令牌</strong>",
+            "desc": {
+                "$0": "GLQ令牌允许您在我们的测试网或主网上运行一个图形，在区块链上执行不同的进程，以自动化您的任务。每次图形执行一个区块时，GLQ代币将被烧毁。",
+                "$1": "你可以<a target='_blank' href='https://docs.graphlinq.io/token'>在这里</a>获得更多关于GLQ代币的信息。<"
+            },
+            "button": "前往Uniswap"
+        }
+    },
+    "cta": {
+        "title": "<span class='dg'>准备好</span>在我们的协议上<span class='dg'>创建</span>第一个图形了吗？",
+        "button-ide": "上综合环境",
+        "button-app": "创建一个钱包"
+    },
+    "usecases": {
+        "title": "人们如何使用<span class='dg'>GraphLinq</span>",
+        "subtitle": "能够创建自己的图形，并使用各种预制块，<u>唯一的限制是你的想象力。</u>",
+        "testimonials": {
+            "$0": {
+                "title": "惊人的用户体验",
+                "desc": "即使您已經是一個開發者GraphLinq允許您測試您的想法，而不必啟動終端。"
+            },
+            "$1": {
+                "title": "发展我的支付服务",
+                "desc": "我正在寻找一个加密项目，以帮助我创建一个自动化的机器人，用于处理我的新成员在Telegram上的订阅，我在GraphLinq团队的帮助下，在几个点击中完成了它。"
+            },
+            "$2": {
+                "title": "监测",
+                "desc": "我需要一种方法来监控我投资的Uniswap上的特定对，我创建了我的图表，并将所有的流量流数据链接到我的Discord账户，并在价格变化上添加了条件触发。"
+            },
+            "$3": {
+                "title": "Binance交易员",
+                "desc": "我是Binance的日间交易员，我使用了一个Graph模板将我与Binance的活动和分散的AMM协议联系起来，这样我就可以触发套利事件，用Binance的API执行交易。"
+            },
+            "$4": {
+                "title": "鲸鱼报告",
+                "desc": "我创建了我的图表，每当鲸鱼将他们的资金从一个钱包转移到另一个钱包时，就会通过webhook事件实时提醒我到我的专用服务器。"
+            },
+            "$5": {
+                "title": "跟着我的投资",
+                "desc": "使用模板，我修改并部署了我的图表，让我知道当Ethereum的价格在我的Telegram机器人上移动时，它帮助我起来知道何时从我的初始投资中买入或卖出。"
+            }
+        }
+    },
+    "community": {
+        "title": "GraphLinq <span class='dg'>社区</span>",
+        "subtitle": "了解GraphLinq，與團隊和其他成員在社區中討論。",
+        "social": {
+            "telegram": {
+                "desc": "与社区和团队讨论使用最多的网络。"
+            },
+            "twitter": {
+                "desc": "跟随现场馈送新闻和公告从GraphLinq团队。"
+            },
+            "discord": {
+                "desc": "在一个安全的、比较冷清的平台上和社区聊天。"
+            },
+            "medium": {
+                "desc": "阅读团队的最新信息和发展细节"
+            }
+        }
+    },
+    "footer": {
+        "copyright": "<strong>GraphLinq ©版权2021</strong>。所有权利保留。",
+        "column": {
+            "$0": {
+                "title": "GraphLinq",
+                "links": {
+                    "$0": "文件资料",
+                    "$1": "服务条款",
+                    "$2": "隐私权政策"
+                }
+            },
+            "$1": {
+                "title": "产品介绍",
+                "links": {
+                    "$0": "Interface",
+                    "$1": "IDE",
+                    "$2": "Analytics"
+                }
+            },
+            "$2": {
+                "title": "资源简介",
+                "links": {
+                    "$0": "Github",
+                    "$1": "Uniswap URL",
+                    "$2": "媒介文章"
+                }
+            },
+            "$3": {
+                "title": "关注我们",
+                "links": {
+                    "$0": "Twitter",
+                    "$1": "Linkedin",
+                    "$2": "Youtube",
+                    "$3": "Instagram",
+                    "$4": "Reddit"
+                }
+            }
+        }
+    }
+}

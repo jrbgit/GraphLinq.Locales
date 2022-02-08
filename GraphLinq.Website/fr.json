@@ -1,0 +1,159 @@
+{
+    "nav": {
+      "links": {
+        "home": "Accueil",
+        "litepaper": "LitePaper",
+        "team": "À propos de l'équipe",
+        "docs": "Documentation",
+        "telegram": "Telegram",
+        "interface": "Accéder à l'Interface",
+		"marketplace": "Accéder a la Marketplace",
+        "language": "Langue"
+      }
+    },
+    "hero": {
+      "title": "Le protocol <span class='dg'>no-code</span> pour le <strong>développement blockchain</strong>",
+      "subtitle": "L'automatisation de la surveillance des données DeFi et des exécutions externes sur des applications multi-chaînes.",
+      "button": "Construire sur l'IDE",
+      "graphs": {
+        "$0": {
+          "title": "Créer de puissants crypto-outils",
+          "desc": "Avec GraphLinq, vous pouvez créer l'équivalent de centaines de lignes de code en quelques secondes par simple glisser-déposer de blocs."
+        },
+        "$1": {
+          "title": "Pour une fraction de centime",
+          "desc": "La plupart des opérations sur GraphLinq coûtent des fractions d'un GLQ, c'est même moins cher que d'exécuter votre programme sur AWS."
+        },
+        "$2": {
+          "title": "Exécutez votre graphs",
+          "desc": "Exécutez des transactions sur la blockchain déclenchées par des événements ou faites appel à l'API de la bourse pour demander la création d'ordres de négociation."
+        }
+      }
+    },
+    "features": {
+      "title": "Construire, visualiser, automatiser vos tâches",
+      "subtitle": "Le <strong>GraphLinq Engine</strong> vous fournit tous les éléments nécessaires à la gestion de la logique commerciale sans nécessiter de compétences en codage.",
+      "$0": {
+        "title": "Créer des graphs, visuellement avec des nœuds",
+        "desc": {
+          "$0": "Un nœud est un bloc qui est un élément autonome de la fonctionnalité comme la connexion au réseau Ethereum, l'obtention de données à partir d'un échange spécifique ou l'envoi de données en utilisant un WebHook.",
+          "$1": "Le moteur GraphLinq est livré avec un ensemble de plus de 100 blocs logiques qui peuvent être exécutés en utilisant les paramètres de votre choix."
+        }
+      },
+      "$1": {
+        "title": "Connecter les nœuds pour définir la logique",
+        "desc": {
+          "$0": "Chaque nœud possède au moins une entrée qui accepte les valeurs à traiter et une sortie qui produit des résultats. La liaison d'une sortie à une entrée établit un chemin de données qui permet à un nœud d'alimenter un autre en données.",
+          "$1": "Utilisez ce principe simple mais puissant pour définir ce que vous pouvez construire."
+        }
+      },
+      "$2": {
+        "title": "Uploader et exécuter directement à partir de l'interface",
+        "desc": "Lorsque vous êtes prêt à déployer votre graphique ou à utiliser un modèle préétabli, vous pouvez utiliser l'interface GraphLinq pour le télécharger et l'exécuter sur le réseau."
+      },
+      "$3": {
+        "title": "Utilisez et partagez vos templates",
+        "desc": "Créez et partagez vos graphiques avec le monde entier. Explorez ce que les autres ont créé. Recherchez des graphes communautaires et réutilisez-les dans vos autres projets blockchain."
+      },
+      "$4": {
+        "title": "Le token GLQ",
+        "desc": {
+          "$0": "Le jeton GLQ vous permet d'exécuter un graphe sur notre réseau de test ou notre réseau principal pour exécuter différents processus sur la blockchain afin d'automatiser vos tâches. Le jeton GLQ sera brûlé chaque fois que le graphe exécutera un bloc.",
+          "$1": "Vous pouvez obtenir plus d'informations sur le jeton GLQ <a target='_blank' href='https://docs.graphlinq.io/token'>ici</a>."
+        },
+        "button": "Aller sur Uniswap"
+      }
+    },
+    "cta": {
+      "title": "<span class='dg'>Prêt à créer</span> votre premier graphique sur notre protocole ?",
+      "button-ide": "Aller sur l'IDE",
+      "button-app": "Créer un wallet"
+    },
+    "usecases": {
+      "title": "Comment les gens utilisent <span class='dg'>GraphLinq</span>",
+      "subtitle": "Avec la possibilité de créer votre propre graphique et d'utiliser une variété de blocs préfabriqués, <u>la seule limite est votre imagination.</u>",
+      "testimonials": {
+        "$0": {
+          "title": "Une expérience utilisateur étonnante",
+          "desc": "Même si vous êtes déjà un développeur, GraphLinq vous permet de tester vos idées sans avoir à allumer le terminal."
+        },
+        "$1": {
+          "title": "Faire évoluer mes services de paiement",
+          "desc": "Je cherchais un projet crypto pour m'aider à créer un bot automatisé pour gérer les inscriptions de mes nouveaux membres sur Telegram, je l'ai fait en quelques clics avec l'aide de l'équipe de GraphLinq."
+        },
+        "$2": {
+          "title": "Surveillance",
+          "desc": "J'avais besoin d'un moyen de surveiller une paire spécifique sur Uniswap dans laquelle j'ai investi, j'ai créé mes graphiques et lié toutes les données des flux à mon compte Discord, et ajouté des déclencheurs conditionnels sur les changements de prix."
+        },
+        "$3": {
+          "title": "Trader Binance",
+          "desc": "Je suis un day trader Binance, j'ai utilisé un modèle Graph pour me relier à l'activité de Binance et sur le protocole décentralisé AMM, de cette façon je peux déclencher des événements d'arbitrage pour exécuter un trade avec mon API Binance."
+        },
+        "$4": {
+          "title": "Rapports sur les baleines",
+          "desc": "J'ai créé mon graphique qui m'alerte en temps réel par le biais d'événements webhook sur mon serveur dédié chaque fois que les baleines déplacent leurs fonds d'un portefeuille à un autre."
+        },
+        "$5": {
+          "title": "Suivre mon investissement",
+          "desc": "À l'aide d'un template, j'ai modifié et déployé mon graphique pour me permettre de savoir quand le prix de l'Ethereum évoluait sur mon robot Telegram, ce qui m'aide à savoir quand acheter ou vendre à partir de mon investissement initial."
+        }
+      }
+    },
+    "community": {
+      "title": "<span class='dg'>Communauté</span> GraphLinq",
+      "subtitle": "Découvrez GraphLinq, discutez avec l'équipe et les autres membres de la communauté.",
+      "social": {
+        "telegram": {
+          "desc": "Le réseau le plus utilisé pour discuter avec la communauté et l'équipe."
+        },
+        "twitter": {
+          "desc": "Suivez en direct les nouvelles et les annonces de l'équipe GraphLinq."
+        },
+        "discord": {
+          "desc": "Dialoguez avec la communauté sur une plateforme sécurisée et plus froide."
+        },
+        "medium": {
+          "desc": "Lisez les dernières informations de l'équipe et les détails du développement."
+        }
+      }
+    },
+    "footer": {
+        "copyright": "<strong>GraphLinq © Copyright 2021</strong>. Tous droits réservés.",
+        "column": {
+          "$0": {
+            "title": "GraphLinq",
+            "links": {
+              "$0": "Documentation",
+              "$1": "Conditions d'utilisation",
+              "$2": "Politique de confidentialité"
+            }
+          },
+          "$1": {
+            "title": "Produits",
+            "links": {
+              "$0": "Interface",
+              "$1": "IDE",
+              "$2": "Analytics"
+            }
+          },
+          "$2": {
+            "title": "Resources",
+            "links": {
+              "$0": "Github",
+              "$1": "Uniswap URL",
+              "$2": "Medium Articles"
+            }
+          },
+          "$3": {
+            "title": "Suivez Nous",
+            "links": {
+              "$0": "Twitter",
+              "$1": "Linkedin",
+              "$2": "Youtube",
+              "$3": "Instagram",
+              "$4": "Reddit"
+            }
+          }
+        }
+      }
+  }

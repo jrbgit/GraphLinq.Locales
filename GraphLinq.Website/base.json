@@ -1,0 +1,158 @@
+{
+    "nav": {
+      "links": {
+        "home": "",
+        "litepaper": "",
+        "team": "",
+        "docs": "",
+        "telegram": "",
+        "interface": "",
+        "language": ""
+      }
+    },
+    "hero": {
+      "title": "",
+      "subtitle": "",
+      "button": "",
+      "graphs": {
+        "$0": {
+          "title": "",
+          "desc": ""
+        },
+        "$1": {
+          "title": "",
+          "desc": ""
+        },
+        "$2": {
+          "title": "",
+          "desc": ""
+        }
+      }
+    },
+    "features": {
+      "title": "",
+      "subtitle": "",
+      "$0": {
+        "title": "",
+        "desc": {
+          "$0": "",
+          "$1": ""
+        }
+      },
+      "$1": {
+        "title": "",
+        "desc": {
+          "$0": "",
+          "$1": ""
+        }
+      },
+      "$2": {
+        "title": "",
+        "desc": ""
+      },
+      "$3": {
+        "title": "",
+        "desc": ""
+      },
+      "$4": {
+        "title": "",
+        "desc": {
+          "$0": "",
+          "$1": ""
+        },
+        "button": ""
+      }
+    },
+    "cta": {
+      "title": "",
+      "button-ide": "",
+      "button-app": ""
+    },
+    "usecases": {
+      "title": "",
+      "subtitle": "",
+      "testimonials": {
+        "$0": {
+          "title": "",
+          "desc": ""
+        },
+        "$1": {
+          "title": "",
+          "desc": ""
+        },
+        "$2": {
+          "title": "",
+          "desc": ""
+        },
+        "$3": {
+          "title": "",
+          "desc": ""
+        },
+        "$4": {
+          "title": "",
+          "desc": ""
+        },
+        "$5": {
+          "title": "",
+          "desc": ""
+        }
+      }
+    },
+    "community": {
+      "title": "",
+      "subtitle": "",
+      "social": {
+        "telegram": {
+          "desc": ""
+        },
+        "twitter": {
+          "desc": ""
+        },
+        "discord": {
+          "desc": ""
+        },
+        "medium": {
+          "desc": ""
+        }
+      }
+    },
+    "footer": {
+      "copyright": "",
+      "column": {
+        "$0": {
+          "title": "",
+          "links": {
+            "$0": "",
+            "$1": "",
+            "$2": ""
+          }
+        },
+        "$1": {
+          "title": "",
+          "links": {
+            "$0": "",
+            "$1": "",
+            "$2": ""
+          }
+        },
+        "$2": {
+          "title": "",
+          "links": {
+            "$0": "",
+            "$1": "",
+            "$2": ""
+          }
+        },
+        "$3": {
+          "title": "",
+          "links": {
+            "$0": "",
+            "$1": "",
+            "$2": "",
+            "$3": "",
+            "$4": ""
+          }
+        }
+      }
+    }
+  }

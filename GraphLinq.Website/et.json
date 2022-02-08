@@ -1,0 +1,159 @@
+{
+    "nav": {
+      "links": {
+        "home": "kodu",
+        "litepaper": "LitePaper",
+        "team": "Teave meeskonna kohta",
+        "docs": "Dokumentatsioon",
+        "telegram": "Telegram",
+        "interface": "Mine liidesesse",
+		"marketplace": "Juurdepääs turule",
+        "language": "Keel"
+      }
+    },
+    "hero": {
+      "title": "<strong>Plokiahela arendamise</strong> <span class='dg'>koodivaba</span> protokoll",
+      "subtitle": "DeFi andmete jälgimise automatiseerimine ja välised täitmised mitmeahelaliste rakenduste puhul.",
+      "button": "Tuginege meie IDE-le",
+      "graphs": {
+        "$0": {
+          "title": "Võimsate krüptotööriistade loomine",
+          "desc": "GraphLinqi abil saate sekunditega luua sadade koodiridade ekvivalendi, lohistades lihtsalt plokke."
+        },
+        "$1": {
+          "title": "Murdosa pennist",
+          "desc": "Enamik GraphLinqi toiminguid maksab GLQ murdosa, see on isegi odavam kui teie programmi käitamine AWS-is."
+        },
+        "$2": {
+          "title": "Graafiku käivitamine",
+          "desc": "Käivitage sündmuste käivitatud plokiahela kanded või muutke kõnevahetuse API kaubandustellimuste loomise taotlustele."
+        }
+      }
+    },
+    "features": {
+      "title": "Ülesannete koostamine, visualiseerimine, automatiseerimine",
+      "subtitle": "<strong>GraphLinq Engine</strong> pakub teile kõiki äriloogika käsitsemise vajadusi, ilma et oleks vaja kodeerimisoskusi.",
+      "$0": {
+        "title": "raafikute</span> visuaalne koostamine <strong>sõlmedega</strong>",
+        "desc": {
+          "$0": "Sõlm on plokk, mis on iseseisev funktsioon, nagu ühenduse loomine Ethereumi võrguga, andmete hankimine kindlast vahetusest või andmete saatmine WebHooki abil.",
+          "$1": "GraphLinqi mootoriga on kaasas üle 100 loogilise ploki, mida saab soovitud parameetrite abil käivitada."
+        }
+      },
+      "$1": {
+        "title": "Sõlmede <span class='dg'></span> <strong>linkimine käitumise määratlemiseks</strong>",
+        "desc": {
+          "$0": "Igal sõlmel on vähemalt üks sisend, mis aktsepteerib töödeldavaid väärtusi, ja üks väljund, mis annab tulemusi. Väljundi linkimine sisendiga loob andmetee, mis võimaldab ühel sõlmel andmeid teise sööta.",
+          "$1": "Kasutage seda lihtsat, kuid võimsat põhimõtet, et määratleda, mida saate ehitada."
+        }
+      },
+      "$2": {
+        "title": "Üleslaadimine ja <span class='dg'>käivitamine</span> <strong>otse liidesest</strong>",
+        "desc": "Kui olete valmis oma Graphi juurutama või kasutama valmis malli, saate GraphLinqi liidese abil selle üles laadida ja võrgus käivitada."
+      },
+      "$3": {
+        "title": "<strong>Mallide</strong> kasutamine ja <span class='dg'>ühiskasutus</span>",
+        "desc": "Looge ja jagage oma graafikuid maailmaga. Uurige, mida teised on loonud. Otsige kogukonna graafikuid ja kasutage neid uuesti oma edasistes plokiahela projektides."
+      },
+      "$4": {
+        "title": "<span class='dg dguni'>GLQ</span> <strong>luba</strong>",
+        "desc": {
+          "$0": "GLQ-luba võimaldab teil käivitada graafiku meie testvõrgus või meie põhivõrgus, et teostada erinevaid protsesse plokiahela kaudu, et oma ülesandeid automatiseerida. GLQ-luba kirjutatakse iga kord, kui graafik ühe ploki käivitab.",
+          "$1": "Lisateavet GLQ loa kohta leiate <a target='_blank' href='https://docs.graphlinq.io/token'>siit</a>."
+        },
+        "button": "Mine Uniswapi"
+      }
+    },
+    "cta": {
+      "title": "<span class='dg'>Oled valmis looma</span> oma esimese graafiku meie protokollis?",
+      "button-ide": "Avage integreeritud keskkond",
+      "button-app": "Rahakoti loomine"
+    },
+    "usecases": {
+      "title": "Kuidas inimesed <span class='dg'>GraphLinqi kasutavad?</span>",
+      "subtitle": "Võime luua oma graafik ja kasutada erinevaid eelnevalt valmistatud plokke, <u>on ainus piir teie kujutlusvõime.</u>",
+      "testimonials": {
+        "$0": {
+          "title": "Hämmastav kasutajakogemus",
+          "desc": "Isegi kui olete juba arendaja GraphLinq võimaldab teil oma ideid testida, ilma et peaksite terminali põlema."
+        },
+        "$1": {
+          "title": "Minu makseteenuste arenemine",
+          "desc": "Otsisin krüptoprojekti, mis aitaks mul luua automaatse roboti oma uue liikme tellimuste käsitlemiseks Telegramis, tegin seda mõne hiireklõpsuga GraphLinqi meeskonna abiga."
+        },
+        "$2": {
+          "title": "seire",
+          "desc": "Mul oli vaja võimalust jälgida konkreetset paari Uniswapis, kuhu ma investeerisin, lõin oma graafikud ja ühendasin kõik vooluvoogude andmed oma Discordi kontoga ja lisasin tingimusliku päästiku hindade muutumisele."
+        },
+        "$3": {
+          "title": "Binance Trader",
+          "desc": "Olen Binance'i päeva kaupleja, kasutasin ühte Graphi malli, et siduda mind Binance'i tegevusega ja detsentraliseeritud AMM-protokolliga, nii saan käivitada arbitraažisündmusi, et teostada kauplemist oma Binance API-ga."
+        },
+        "$4": {
+          "title": "Vaala aruandlus",
+          "desc": "Ma lõin oma graafiku, mis hoiatab mind reaalajas veebihoki sündmuste kaudu minu spetsiaalsesse serverisse, kui vaalad liigutasid oma raha ühest rahakotist teise."
+        },
+        "$5": {
+          "title": "Pärast minu investeeringut",
+          "desc": "Kasutades malli, muutsin ja juurutasin oma graafikut, et anda mulle teada, kui Ethereumi hind liikus minu Telegrami botil, see aitab mul teada saada, millal osta või müüa oma esialgsest investeeringust."
+        }
+      }
+    },
+    "community": {
+      "title": "GraphLinq <span class='dg'>Kogukond</span>",
+      "subtitle": "Lisateave GraphLinqi kohta, arutage meeskonna ja teiste kogukonna liikmetega.",
+      "social": {
+        "telegram": {
+          "desc": "Kõige enam kasutatav võrgustik kogukonna ja meeskonnaga arutamiseks."
+        },
+        "twitter": {
+          "desc": "Jälgi otseülekande uudiseid ja teadet GraphLinqi meeskonnalt"
+        },
+        "discord": {
+          "desc": "Vestelge kogukonnaga turvalisel ja jahedamal platvormil."
+        },
+        "medium": {
+          "desc": "Loe meeskonna värskeimat infot ja arengu üksikasju"
+        }
+      }
+    },
+    "footer": {
+      "copyright": "<strong>GraphLinq © Autoriõigus 2021</strong>. Kõik õigused reserveeritud.",
+      "column": {
+        "$0": {
+          "title": "GraphLinq",
+          "links": {
+            "$0": "dokumentatsioon",
+            "$1": "Teenuse tingimused",
+            "$2": "Privaatsuspoliitika"
+          }
+        },
+        "$1": {
+          "title": "Tooted",
+          "links": {
+            "$0": "Interface",
+            "$1": "IDE",
+            "$2": "Analytics"
+          }
+        },
+        "$2": {
+          "title": "Ressursse",
+          "links": {
+            "$0": "Github",
+            "$1": "Uniswap URL",
+            "$2": "Medium artiklid"
+          }
+        },
+        "$3": {
+          "title": "Jälgi meid",
+          "links": {
+            "$0": "Twitter",
+            "$1": "Linkedin",
+            "$2": "Youtube",
+            "$3": "Instagram",
+            "$4": "Reddit"
+          }
+        }
+      }
+    }
+  }

@@ -1,0 +1,159 @@
+{
+  "nav": {
+    "links": {
+      "home": "Home",
+      "litepaper": "LitePaper",
+      "team": "About Team",
+      "docs": "Documentation",
+      "telegram": "Telegram",
+      "interface": "Go to Interface",
+	  "marketplace": "Go to Marketplace",
+      "language": "Language"
+    }
+  },
+  "hero": {
+    "title": "The <span class='dg'>no-code</span> protocol for <strong>Building on Blockchain</strong>",
+    "subtitle": "Automate & perform over hundreds of actions based on events triggered on-chain & off-chain.",
+    "button": "Build on our IDE",
+    "graphs": {
+      "$0": {
+        "title": "Create powerful crypto-tools",
+        "desc": "Use pre-made templates or over 180 logical blocks by simply dragging & dropping to create the equivalent of hundreds of lines of code in minutes."
+      },
+      "$1": {
+        "title": "For a fraction of a penny",
+        "desc": "Operations on GraphLinq only charge GLQ as gas based on nodes executed, thus making it extremely cheap to run a graph on our IDE."
+      },
+      "$2": {
+        "title": "Execute Your Graph",
+        "desc": "Automate actions like creating trade orders, sending a mail, creating a token or nft, alerting over social media or mobile and much more, based on the events triggered in blockchain."
+      }
+    }
+  },
+  "features": {
+    "title": "Build, visualize, automate tasks",
+    "subtitle": "The <strong>GraphLinq Engine</strong> provides you all the needs for handling business logic without requiring any coding skills.",
+    "$0": {
+      "title": "Build <span class='dg'>graphs</span> <strong>visually with nodes</strong>",
+      "desc": {
+        "$0": "A node is a block that is a self contained piece of functionality like connecting to the Ethereum Network, getting data from a specific exchange or sending data using a WebHook.",
+        "$1": "The GraphLinq Engine comes with a set of over 100 logical blocks that can be executed using your desired parameters."
+      }
+    },
+    "$1": {
+      "title": "Link <span class='dg'>nodes</span> <strong>to define behavior</strong>",
+      "desc": {
+        "$0": "Every node has at least one input that accepts values to be processed, and one output that produces results. Linking an output to an input establishes a data path that allows one node to feed data into another.",
+        "$1": "Use this simple yet powerful principle to define what you can build."
+      }
+    },
+    "$2": {
+      "title": "Upload & <span class='dg'>execute</span> <strong>directly from the interface</strong>",
+      "desc": "Once you're ready to deploy your Graph or use a pre-made template, you can use the GraphLinq Interface to upload it and execute it on the network."
+    },
+    "$3": {
+      "title": "Use & <span class='dg'>share</span> <strong>your templates</strong>",
+      "desc": "Create and share your Graphs with the world. Explore what others have created. Search for community Graphs and reuse them in your further blockchain projects."
+    },
+    "$4": {
+      "title": "The <span class='dg dguni'>GLQ</span> <strong>token</strong>",
+      "desc": {
+        "$0": "The GLQ Token allow you to run a graph on our test net or our main net to execute different processes over the blockchain to automate your tasks. GLQ token will be burned each time the graph execute one block.",
+        "$1": "You can get more informations about the GLQ token <a target='_blank' href='https://docs.graphlinq.io/token'>here</a>."
+      },
+      "button": "Go to Uniswap"
+    }
+  },
+  "cta": {
+    "title": "<span class='dg'>Ready to create</span> your First Graph on our Protocol&nbsp;?",
+    "button-ide": "Go on the Integrated Environment",
+    "button-app": "Create a Wallet"
+  },
+  "usecases": {
+    "title": "How peoples use <span class='dg'>GraphLinq</span>",
+    "subtitle": "With the ability to create your own graph and using a variety of pre-made blocks, <u>the only limit is your imagination.</u>",
+    "testimonials": {
+      "$0": {
+        "title": "Amazing user experience",
+        "desc": "Even if you are already a developer GraphLinq allows you to test your  ideas without having to fire up the terminal."
+      },
+      "$1": {
+        "title": "Evolving my payment services",
+        "desc": "I was looking for a crypto project to help me to create an automated bot for handling my new member's subscriptions on Telegram, I did it in a few clicks with the help of the GraphLinq team."
+      },
+      "$2": {
+        "title": "Monitoring",
+        "desc": "I needed a way to monitor a specific pair on Uniswap I invested in, I created my graphs and linked all the flux streams data to my Discord account, and added conditional trigger over prices change."
+      },
+      "$3": {
+        "title": "Binance Trader",
+        "desc": "I am a Binance day trader, I used one Graph template to link me up with Binance activity and on decentralized AMM protocol, this way I can trigger arbitrage events to execute a trade with my Binance API."
+      },
+      "$4": {
+        "title": "Whale reporting",
+        "desc": "I created my graph that alerts me in real-time over webhook events to my dedicated server whenever whales moved their funds from one wallet to another."
+      },
+      "$5": {
+        "title": "Following my investment",
+        "desc": "Using a template, I modified and deployed my graph to let me know when the price of Ethereum was moving on my Telegram bot, it helps me up to know when to buy or sell from my initial investment."
+      }
+    }
+  },
+  "community": {
+    "title": "GraphLinq <span class='dg'>Community</span>",
+    "subtitle": "Learn about GraphLinq, discuss with the team and other members in the community.",
+    "social": {
+      "telegram": {
+        "desc": "The most used network for discussing with the community and the team."
+      },
+      "twitter": {
+        "desc": "Follow live feed news and announcement from the GraphLinq team"
+      },
+      "discord": {
+        "desc": "Chat with the community on a secure and a more chill platform."
+      },
+      "medium": {
+        "desc": "Read the latest information from the team and details of the development"
+      }
+    }
+  },
+  "footer": {
+    "copyright": "<strong>GraphLinq © Copyright 2021</strong>. All Rights Reserved.",
+    "column": {
+      "$0": {
+        "title": "GraphLinq",
+        "links": {
+          "$0": "Documentation",
+          "$1": "Terms of service",
+          "$2": "Privacy policy"
+        }
+      },
+      "$1": {
+        "title": "Products",
+        "links": {
+          "$0": "Interface",
+          "$1": "IDE",
+          "$2": "Analytics"
+        }
+      },
+      "$2": {
+        "title": "Resources",
+        "links": {
+          "$0": "Github",
+          "$1": "Uniswap URL",
+          "$2": "Medium Articles"
+        }
+      },
+      "$3": {
+        "title": "Follow Us",
+        "links": {
+          "$0": "Twitter",
+          "$1": "Linkedin",
+          "$2": "Youtube",
+          "$3": "Instagram",
+          "$4": "Reddit"
+        }
+      }
+    }
+  }
+}

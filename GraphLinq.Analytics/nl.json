@@ -1,5 +1,15 @@
 {
     "title": "GraphLinq Analytics",
+    "language": {
+        "ar": "Arabisch",
+        "de": "Duits",
+        "en": "Engels",
+        "fr": "Frans",
+        "nl": "Nederlands",
+        "pt": "Portugees",
+        "pt-BR": "",
+        "tr": ""
+    },
     "header": {
         "search": "Token Zoeken...",
         "connect": "Verbind Je Portemonnee"
@@ -82,4 +92,3 @@
         "toggle": "Activeer Alles"
     }
 }
-

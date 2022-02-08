@@ -1,65 +1,42 @@
 # GraphLinq.Locales
 
-Translations for the GraphLinq Analytics Platform!
+Translations for the GraphLinq Platform. We use the i18n standard.
 
-## How It Works
+## Contributing
 
-- Create a folder in the main directory with the abbreviation: [List of abbreviations](https://github.com/ladjs/i18n-locales)
+Create a fork of this repository and use `git clone` or the online GitHub editor to work on the files in your fork.
 
-- To help you get started - you can copy and paste the `translation.json` and `welcome.json` from the `en` folder into your new directory.
+**Adding A New Translation**
 
-- `welcome.json` contains a list of all the phrases that need to be translated into the local language. Your file should look exactly like mine but on the right side of each item should be the translated term.
+- In the folder you want to add a translation for, copy the `base.json` file to the new locale abbreviation keeping the extension .json so the new file would look like `name.json`.
 
-- `translation.json` contains a list of all the languages supported and how they would apear in that folders language. We will all need to keep adding to our lists as new langauges are added.
+- You can verify the international standard name from this [list of abbreviations](https://github.com/ladjs/i18n-locales).
 
-- IF YOU HAVE QUESTIONS - JUST ASK!
+- Add the translations in the new file.
 
-If you were adding `zz`, it should look like this.
+- Create a pull request to have it added to our sites.
 
-```text
-.
-├── en
-│   ├── welcome.json
-│   └── translation.json
-├── de
-│   └── welcome.json
-|   └── translation.json
-├── fr
-│   ├── welcome.json
-│   └── translation.json
-├── zz
-│   ├── welcome.json
-│   └── translation.json
-```
+**Modifying An Existing Translation**
 
-## Formating Guildlines
+- Make the changes to the existing file.
 
-The documents are in [JSON](https://en.wikipedia.org/wiki/JSON).
+- Create a pull request to have the modifications made on our sites.
+
+# Guidelines
+
+The documents are in [JSON](https://en.wikipedia.org/wiki/JSON) format.
 
 Please leave an empty line at the end of the document.
 
-The last line of a set of parameters does not have a `,` comma at the end of it!
+The last line of a set of parameters does not have a `,` comma at the end of it.
 
 Indentation should be with 4 spaces - not tabs
 
-## Changes
-
-Please do not add any new fields to the document unless we discuss.
-
-## Special Thanks
+# Thanks
 
 After you submit a translation - credit will be given here!
 
-## Credits
-
-Language                     | Submitted By                | Reviewed By
------------------------------|-----------------------------|------------
-German (de)                  | ildan                       | None Yet!
-English (en)                 | jr00t                       | None Yet!
-Netherlands (nl)             | Martijn                     | None Yet!
-French (fr)                  | Mixany                      | None Yet!
-Brazilian Portuguese (pt-BR) | Henrique Viana (@Rickviana) | None Yet!
-Turkish (tr)                 | Furkan                      | None Yet!
+Mixany, ildan, Martijn, Henrique Viana (@Rickviana), Furkan
 
 <a href="https://github.com/jrbgit/GraphLinq.Locales/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=jrbgit/GraphLinq.Locales" />

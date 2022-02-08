@@ -1,5 +1,15 @@
 {
     "title": "GraphLinq Analytics",
+    "language": {
+        "ar": "Arapça",
+        "de": "Almanca",
+        "en": "İngilizce",
+        "fr": "Fransızca",
+        "nl": "",
+        "pt": "Portekizce",
+        "pt-BR": "",
+        "tr": "Türkçe"
+    },    
     "header": {
         "search": "Token ara...",
         "connect": "Cüzdanını bağla"
@@ -82,4 +92,3 @@
         "toggle": "Hepsini seç"
     }
 }
-

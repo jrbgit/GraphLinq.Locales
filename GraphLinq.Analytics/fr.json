@@ -4,6 +4,16 @@
         "search": "Recherche token...",
         "connect": "Connexion portefeuille"
     },
+    "language": {
+        "ar": "Arabe",
+        "de": "Allemand",
+        "en": "Anglais",
+        "fr": "Français",
+        "nl": "Néerlandais",
+        "pt": "Portugais",
+        "pt-BR": "",
+        "tr": ""
+    },
     "sidebar": {
         "overview": "Aperçu",
         "graph_ide": "Graph IDE",
@@ -82,4 +92,3 @@
         "toggle": "Tout basculer"
     }
 }
-
